@@ -14,7 +14,7 @@ And this data has been gathered on patient wait lists including case type, age, 
 
 ### 2. Dashboard Design
 Created two dashboard slides, one for summary and the other for detailed view.
------
+
 ## Page 1 (Summary)
 ![image](https://github.com/user-attachments/assets/071a5177-2d74-45b1-b763-b557eabf1c58)
 1. Included key performance indicators (KPIs) displaying the latest month's patient wait list count and the count from the previous month.
