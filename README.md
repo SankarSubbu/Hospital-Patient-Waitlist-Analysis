@@ -1,11 +1,11 @@
 # Hospital-Patient-Waitlist-Analysis
------
+
 ## Problem Statement
-----
+
 Hospital management needs a comprehensive analysis of the patient wait list to optimize resource allocation, identify areas for improvement, and ensure efficient patient care. They require insights into the distribution of case types, age profiles, and specialty-wise wait times to make informed decisions.
 
 ## Steps followed
--------
+
 ### 1. Data Collection and Preparation
 Gathered data on patient waiting lists from hospitals from 2018-2021, which includes Inpatient list and Outpatient list.
 A Patient who stays in hospital while under treatment is Inaptient.
